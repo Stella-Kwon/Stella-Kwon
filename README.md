@@ -32,7 +32,7 @@
 - Frontend: **React Native mobile app**  
 - Goal: Allow multiple users to book time slots collaboratively in real-time
 
-### [cub_3d](https://github.com/Stella-Kwon/cub_3d)
+### [cub_3d](https://github.com/Stella-Kwon/cub3d)
 - 3D game engine inspired by **Wolfenstein 3D**  
 - Implemented in **C**, using raycasting techniques  
 - Learned graphics programming, textures, and game loop management
@@ -47,7 +47,7 @@
 - Implements social and multiplayer game features  
 - Learned real-time communication, WebSocket integration, and frontend-backend coordination
 
-### [Minishell](https://github.com/Stella-Kwon/minishell)
+### [Minishell](https://github.com/Stella-Kwon/Minishell)
 - Custom Bash-like shell implemented in **C**  
 - Supports pipes, redirections, signals, built-in commands, and environment variables
 ---
