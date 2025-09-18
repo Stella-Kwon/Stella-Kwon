@@ -54,11 +54,11 @@
 
 ## Contact
 
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github) https://github.com/Stella-Kwon
+![GitHub](https://img.shields.io/badge/GitHub-Profile-yellow?logo=github) https://github.com/Stella-Kwon
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin) https://www.linkedin.com/in/sumin-kwon-401291236/
 
-![Email](https://img.shields.io/badge/Email-kwon@gmail.com-red) kwontnals@gmail.com
+![Email](https://img.shields.io/badge/Email) kwontnals@gmail.com
 
 ---
 
