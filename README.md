@@ -1,5 +1,7 @@
 # Hi, I'm Sumin Kwon 👋
 
+## Contact
+
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github) https://github.com/Stella-Kwon
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin) https://www.linkedin.com/in/sumin-kwon-401291236/
@@ -56,13 +58,6 @@
 ### [Minishell](https://github.com/kwon/minishell)
 - Custom Bash-like shell implemented in **C**  
 - Supports pipes, redirections, signals, built-in commands, and environment variables
----
-
-## Contact
-
-- **LinkedIn**: [www.stella-kwon.com](https://www.stella-kwon.com)  
-- **Email**: kwon@gmail.com  
-
 ---
 
 ## Languages & Tools
