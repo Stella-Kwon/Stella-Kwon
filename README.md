@@ -26,28 +26,28 @@
 
 ## Projects
 
-### [Callvan Reservation Service](https://github.com/kwon/callvan) (In Progress)
+### [Callvan Reservation Service](https://github.com/Stella-Kwon/VanMate) (In Progress)
 - Collaborative reservation service that **gathers people using polling techniques**  
 - Backend: **Fastify + TypeScript**  
 - Frontend: **React Native mobile app**  
 - Goal: Allow multiple users to book time slots collaboratively in real-time
 
-### [cub_3d](https://github.com/kwon/cub_3d)
+### [cub_3d](https://github.com/Stella-Kwon/cub_3d)
 - 3D game engine inspired by **Wolfenstein 3D**  
 - Implemented in **C**, using raycasting techniques  
 - Learned graphics programming, textures, and game loop management
 
-### [ft_irc](https://github.com/kwon/ft_irc)
+### [ft_irc](https://github.com/Stella-Kwon/ft_irc)
 - IRC (Internet Relay Chat) server and client implemented in **C**  
 - Supports multiple clients, channels, and basic IRC commands  
 - Learned socket programming, networking, and event-driven programming
 
-### [ft_transcendence](https://github.com/kwon/ft_transcendence)
+### [ft_transcendence](https://github.com/Stella-Kwon/PingPongGame)
 - Full-stack project combining **React, TypeScript, Node.js**  
 - Implements social and multiplayer game features  
 - Learned real-time communication, WebSocket integration, and frontend-backend coordination
 
-### [Minishell](https://github.com/kwon/minishell)
+### [Minishell](https://github.com/Stella-Kwon/minishell)
 - Custom Bash-like shell implemented in **C**  
 - Supports pipes, redirections, signals, built-in commands, and environment variables
 ---
