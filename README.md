@@ -38,7 +38,7 @@
 - Learned graphics programming, textures, and game loop management
 
 ### [ft_irc](https://github.com/Stella-Kwon/ft_irc)
-- IRC (Internet Relay Chat) server and client implemented in **C**  
+- IRC (Internet Relay Chat) server and client implemented in **C++**  
 - Supports multiple clients, channels, and basic IRC commands  
 - Learned socket programming, networking, and event-driven programming
 
