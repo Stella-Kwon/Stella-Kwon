@@ -1,8 +1,10 @@
 # Hi, I'm Sumin Kwon 👋
 
+
+
 Backend-oriented developer with a strong interest in system programming and networked applications.
 
-I graduated from **Hive Helsinki (42 Network)** in **August 2025**, where I worked on project-based software development focused on operating systems, networking, and low-level problem solving. Most of my experience comes from building and debugging real programs in C/C++ and gradually extending that knowledge to backend web systems.
+I graduated from **Hive Helsinki (42 Network)** in **August 2025**, where I worked on project-based software development focused on operating systems, networking, and low-level problem solving. Most of my experience comes from building and debugging real programs in C/C++, and gradually extending that knowledge to backend web systems.
 
 I’m particularly interested in how programs behave at runtime — process execution, resource management, and communication between components — and how those fundamentals translate into reliable backend services.
 
@@ -59,32 +61,37 @@ A simple 3D game engine inspired by *Wolfenstein 3D*.
 
 ## Skills
 
-**Languages**
--
-![C](https://img.shields.io/badge/C-00599C?logo=c) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Virtual Machine](https://img.shields.io/badge/VMz-6C6C6C) 
+### Languages
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
+### Backend & Systems
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00)
+![TCP](https://img.shields.io/badge/TCP%20Sockets-0052CC)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?logo=socketdotio&logoColor=white)
+![POSIX](https://img.shields.io/badge/POSIX-6E6E6E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-**Systems & Backend**
-- POSIX, Linux
-- TCP sockets, WebSocket
-- REST API
-- OS fundamentals, memory management
-- Concurrency, networking
+### Concepts
+![Concurrency](https://img.shields.io/badge/Concurrency-673AB7)
+![Networking](https://img.shields.io/badge/Networking-0A66C2)
+![OS Fundamentals](https://img.shields.io/badge/OS%20Fundamentals-795548)
+![Memory Management](https://img.shields.io/badge/Memory%20Management-9C27B0)
 
-**Tools**
-- Git
-- Make
-- Docker (basic)
-- Debugging: GDB, Valgrind
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Make](https://img.shields.io/badge/Make-1D1D1D)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-000000)
+![Valgrind](https://img.shields.io/badge/Valgrind-2E7D32)
+![Virtual Machine](https://img.shields.io/badge/Virtual%20Machine-6C6C6C)
 
 ---
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-yellow?logo=github)](https://github.com/Stella-Kwon)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sumin-kwon-401291236/)
-
-[![Email](https://img.shields.io/badge/Email-%20-lightgrey?logo=gmail)](mailto:kwontnals@gmail.com)
-
----
+- GitHub: https://github.com/Stella-Kwon  
+- Email: kwontnals@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sumin-kwon-401291236/
