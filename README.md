@@ -1,6 +1,13 @@
 # Hi, I'm Sumin Kwon 👋
 
 
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-kwontnals%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:kwontnals@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Stella--Kwon-181717?logo=github&logoColor=white)](https://github.com/Stella-Kwon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumin%20Kwon-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumin-kwon-401291236/)
+
+---
 
 Backend-oriented developer with a strong interest in system programming and networked applications.
 
@@ -89,9 +96,3 @@ A simple 3D game engine inspired by *Wolfenstein 3D*.
 ![Virtual Machine](https://img.shields.io/badge/Virtual%20Machine-6C6C6C)
 
 ---
-
-## Contact
-
-- GitHub: https://github.com/Stella-Kwon  
-- Email: kwontnals@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/sumin-kwon-401291236/
