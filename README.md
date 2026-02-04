@@ -11,7 +11,7 @@
 
 Backend-oriented developer with a strong interest in system programming and networked applications.
 
-I graduated from **Hive Helsinki (42 Network)** in **August 2025**, where I worked on project-based software development focused on operating systems, networking, and low-level problem solving. Most of my experience comes from building and debugging real programs in C/C++, and gradually extending that knowledge to backend web systems.
+I graduated from **Hive Helsinki (42 Network)** in **2025**, where I worked on project-based software development focused on operating systems, networking, and low-level problem solving. Most of my experience comes from building and debugging real programs in C/C++, and gradually extending that knowledge to backend web systems.
 
 I’m particularly interested in how programs behave at runtime — process execution, resource management, and communication between components — and how those fundamentals translate into reliable backend services.
 
