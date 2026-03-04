@@ -20,9 +20,9 @@ I’m particularly interested in how programs behave at runtime — process exec
 ## What I’m Working On
 
 - Exploring **network programming** and real-time communication
-- Building a **collaborative reservation service** that gathers participants using polling techniques  
+- Building a **collaborative reservation service** that gathers participants using epolling techniques  
   - Backend: **Fastify**, **TypeScript**  
-  - Mobile frontend: **React Native**
+  - frontend: **React Native**
 - Revisiting past projects to better understand design decisions and runtime behavior
 
 ---
