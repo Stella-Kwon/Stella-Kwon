@@ -48,7 +48,7 @@ A multi-client IRC server written in C++.
 
 ---
 
-### [ft_transcendence](https://github.com/Stella-Kwon/PingPongGame)
+### [ft_transcendence](https://github.com/Stella-Kwon/ft_transcendence)
 Backend components for a real-time web application.
 
 - Implements WebSocket-based communication for real-time interactions
