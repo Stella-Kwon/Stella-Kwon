@@ -19,11 +19,10 @@ I’m particularly interested in how programs behave at runtime — process exec
 
 ## What I’m Working On
 
-- Exploring **network programming** and real-time communication
-- Building a **collaborative reservation service** that gathers participants using epolling techniques  
-  - Backend: **Fastify**, **TypeScript**  
-  - frontend: **React Native**
-- Revisiting past projects to better understand design decisions and runtime behavior
+- Exploring **network programming** and **real-time communication**.
+- Building a **collaborative reservation service** using **epolling techniques** for scalable and concurrent message delivery.
+- Interested in **real-time, concurrent systems** and learning to apply these concepts to **embedded sensor data processing** and **MCU-based real-time applications**.
+- Practicing **C/C++ embedded programming** with small MCU projects (LED, button, sensor input, UART communication) to understand **real-time data handling** in constrained environments.
 
 ---
 
@@ -48,21 +47,21 @@ A multi-client IRC server written in C++.
 
 ---
 
-### [ft_transcendence](https://github.com/Stella-Kwon/ft_transcendence)
-Backend components for a real-time web application.
-
-- Implements WebSocket-based communication for real-time interactions
-- Handles connection lifecycle and message routing on the backend
-- Built with TypeScript and Fastify, in collaboration with frontend teammates
-
----
-
 ### [cub3d](https://github.com/Stella-Kwon/cub3d)
 A simple 3D game engine inspired by *Wolfenstein 3D*.
 
 - Implemented in C using raycasting techniques
 - Renders a 3D environment from a 2D map
 - Handles player movement, textures, and a basic game loop
+
+---
+
+### [ft_transcendence](https://github.com/Stella-Kwon/ft_transcendence)
+Backend components for a real-time web application.
+
+- Implements WebSocket-based communication for real-time interactions
+- Handles connection lifecycle and message routing on the backend
+- Built with TypeScript and Fastify, in collaboration with frontend teammates
 
 ---
 
