@@ -19,10 +19,10 @@ I’m particularly interested in how programs behave at runtime — process exec
 
 ## What I’m Working On
 
-- Exploring **network programming** and **real-time communication**.
-- Building a **collaborative reservation service** using **epolling techniques** for scalable and concurrent message delivery.
-- Interested in **real-time, concurrent systems** and learning to apply these concepts to **embedded sensor data processing** and **MCU-based real-time applications**.
-- Practicing **C/C++ embedded programming** with small MCU projects (LED, button, sensor input, UART communication) to understand **real-time data handling** in constrained environments.
+- Exploring network programming and real-time communication systems.
+- Building a simple reservation service in Go, focusing on concurrent request handling and scalable backend design.
+- Interested in real-time and concurrent systems, especially how event-driven architectures can support scalable network services.
+- Curious about embedded systems and MCU-based applications, and planning small experiments with C/C++ and sensors in the future. small MCU projects (LED, button, sensor input, UART communication) to understand **real-time data handling** in constrained environments.
 
 ---
 
